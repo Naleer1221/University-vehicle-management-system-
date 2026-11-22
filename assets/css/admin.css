@@ -1,0 +1,7 @@
+/* Admin styles share the main DriveEasy theme. */
+.admin-heading { background: linear-gradient(120deg,#e2f2f4,#f7fbfc); padding: 28px 0; margin-bottom: 27px; }
+.admin-links { display: flex; gap: 10px; flex-wrap: wrap; margin: 0 0 23px; }
+.admin-links a { display: inline-flex; align-items: center; font-weight: 750; background: white; border: 1px solid var(--border); border-radius: 13px; padding: 10px 16px; color: var(--dark); }
+.admin-links a:hover { background: #e8f7f6; border-color: #7fc6c5; }
+.admin-table td { font-size: .91rem; }
+.admin-table .inline-form { margin: 2px 0; }
