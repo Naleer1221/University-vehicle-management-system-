@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 350" role="img" aria-label="Vehicle illustration">
+ <rect width="600" height="350" rx="16" fill="#dcece9"/>
+ <circle cx="170" cy="254" r="42" fill="#152d3c"/><circle cx="434" cy="254" r="42" fill="#152d3c"/>
+ <circle cx="170" cy="254" r="20" fill="#f1f6f8"/><circle cx="434" cy="254" r="20" fill="#f1f6f8"/>
+ <path d="M83 231V186l65-15 66-76h161l81 74 59 19v43a21 21 0 0 1-21 21h-18a43 43 0 0 0-84 0H213a43 43 0 0 0-84 0h-23a23 23 0 0 1-23-21Z" fill="#0e846e"/>
+ <path d="m237 114-58 65h103v-65Zm64 0v65h124l-65-65Z" fill="#c5e5eb"/>
+ <rect x="94" y="192" width="28" height="16" rx="6" fill="#ffd98d"/>
+ <rect x="485" y="192" width="25" height="16" rx="6" fill="#ffc2ac"/>
+</svg>
