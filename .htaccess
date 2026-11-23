@@ -1,0 +1,5 @@
+# Never execute scripts placed inside the image-upload directory.
+<FilesMatch "\.(php|phtml|phar|cgi|pl|asp|aspx)$">
+    Require all denied
+</FilesMatch>
+Options -Indexes -ExecCGI
